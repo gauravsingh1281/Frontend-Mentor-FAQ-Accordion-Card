@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/FAQ-accordion-Card-using-React/static/media/illustration-box-desktop.a7ef46ea.svg"
   },
   {
-    "revision": "40d8475d9d575db6640d7db693df351f",
-    "url": "/FAQ-accordion-Card-using-React/static/media/bg-pattern-mobile.40d8475d.svg"
-  },
-  {
     "revision": "a2580ee90560fc8105341c37e970974a",
     "url": "/FAQ-accordion-Card-using-React/static/media/bg-pattern-desktop.a2580ee9.svg"
+  },
+  {
+    "revision": "40d8475d9d575db6640d7db693df351f",
+    "url": "/FAQ-accordion-Card-using-React/static/media/bg-pattern-mobile.40d8475d.svg"
   },
   {
     "revision": "5e10370b2243d12a193a6f38041e8f67",

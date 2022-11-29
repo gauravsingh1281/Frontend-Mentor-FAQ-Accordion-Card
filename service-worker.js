@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/FAQ-accordion-Card-using-React/precache-manifest.671720afda13d4243ee769eeda4655f5.js"
+  "/FAQ-accordion-Card-using-React/precache-manifest.699eb2ea95de23ccb1928fa0ccd1761a.js"
 );
 
 workbox.clientsClaim();
